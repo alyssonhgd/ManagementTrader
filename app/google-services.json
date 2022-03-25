@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "559581182641",
+    "firebase_url": "https://managementtrader-e9e6a.firebaseio.com",
+    "project_id": "managementtrader-e9e6a",
+    "storage_bucket": "managementtrader-e9e6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559581182641:android:307da8443445d469400090",
+        "android_client_info": {
+          "package_name": "com.example.managementtrader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559581182641-ph9c1ap87q5qmk0h4sigs735ge2v4bdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC656mL7LoMKdhPPFCiV65L0GyGYuisixA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559581182641-ph9c1ap87q5qmk0h4sigs735ge2v4bdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
